@@ -12,8 +12,7 @@
 //    tail_type : 1 = T1 conventional       2 = T2 T-tail    3 = T3 V-tail
 //
 //  FUSION 360: Fusion cannot open .scad directly. Render here (F6), then
-//  File > Export > STL (or use the matching .step file supplied with this
-//  file, which opens in Fusion as one closed solid body).
+//  File > Export > STL and import the STL into Fusion.
 // =====================================================================
 wing_type = 3;
 fuse_type = 1;
